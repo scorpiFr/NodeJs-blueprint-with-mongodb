@@ -19,4 +19,4 @@ price:12<br />
 GET http://localhost:4000/api/stuff/6844a31d2367fade2dbce885 <br />
 DELETE http://localhost:4000/api/stuff/6844a19f9c2983b77a952e35 <br />
 PATCH http://localhost:4000/api/stuff/6844a31d2367fade2dbce885 <br />
-title:test2 (and the othe fields that you need) <br />
+title:test2 (and the other fields you need) <br />
