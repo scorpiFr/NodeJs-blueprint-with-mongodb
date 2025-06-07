@@ -1,5 +1,5 @@
 {
-  "name": "NodeJs blueprint with mongodb",
+  "name": "nodejs-blueprint-with-mongodb",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
